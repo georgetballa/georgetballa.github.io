@@ -2,31 +2,20 @@
 
 ---
 
-### Category Name 1 
+### Data Science Capstones
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Neural Network Audio Classification](https://github.com/georgetballa/Audio_Instrument_Classifier)
+<img src="images/specsample.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Unsupervised Learning on Spotify Playlists](https://github.com/georgetballa/Spotify_Clustering)
+<img src="images/spotify_clustering.png"/>
 
 ---
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Warbler Migration EDA and Hypothesis Testing](https://github.com/georgetballa/Warbler_Migration)
+<img src="images/5_years_migrations.jpg"/>
 
 ---
-
 
 
 
