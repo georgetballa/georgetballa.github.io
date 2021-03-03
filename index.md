@@ -8,7 +8,7 @@
 <img src="images/specsample.png"/>
 
 ---
-[Unsupervised Learning on Spotify Playlists](https://github.com/georgetballa/Spotify_Clustering)
+[Unsupervised Learning on Spotify Playlists](https://georgetballa.github.io/Spotify_Clustering/)
 <img src="images/spotify_clustering.png"/>
 
 ---
