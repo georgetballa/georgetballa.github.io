@@ -4,6 +4,8 @@
 
 ## Data Science Projects
 
+---
+
 ### Neural Network Audio Classification
 [Link to Github Repo](https://github.com/georgetballa/Audio_Instrument_Classifier)
 <img src="images/specsample.png"/>
