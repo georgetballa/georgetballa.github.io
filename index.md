@@ -15,7 +15,7 @@
 
 ---
 [Warbler Migration EDA and Hypothesis Testing](https://github.com/georgetballa/Warbler_Migration)
-<img src="images/5_years_migrations.jpg"/>
+<img src="images/5_years_boxed.jpg"/>
 <p style="font-size:12px">Analysis of Warbler Migration using eBird Data API, Hypothesis testing of Warbler Latitude Changes Year over Year</p>
 
 ---
